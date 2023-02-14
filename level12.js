@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Jag ska göra ett te till dig.'
+      img: 'Je vais te faire un thé.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Han har ont i halsen och huvudvärk.'
+      img: 'Il a mal à la gorge et mal à la tête.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'De har alla ont i magen.'
+      img: 'Ils ont tous mal au ventre.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Vad är det med mig?'
+      img: 'Quel est le problème avec moi?'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Vi måste stanna hemma.'
+      img: 'Nous devons rester à la maison.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Jag vill inte bli förkyld.'
+      img: 'Je ne veux pas attraper un rhume.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Jag fortsätter att äta mycket frukt och grönsaker och dricka varmt te med citron och honung.'
+      img: 'Je continue à manger beaucoup de fruits et de légumes et à boire du thé chaud avec du citron et du miel.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Torka näsan med en näsduk.'
+      img: 'Essuyez-vous le nez avec un mouchoir.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Kom tillsammans med mig.'
+      img: 'Viens avec moi.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Du kan hjälpa mig om du vill.'
+      img: "Tu peux m'aider si tu veux."
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Hon kommer tillbaka på eftermiddagen.'
+      img: "Elle reviendra dans l'après-midi."
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Jag vill titta på tv på kvällen.'
+      img: 'Je veux regarder la télé le soir.'
     }
   ]
 

@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'De ser fram emot att träffa sin mormor.'
+      img: 'Ils sont impatients de voir leur grand-mère.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Hennes by ligger inte långt från staden.'
+      img: "Son village n'est pas loin de la ville."
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Vi följer med dem.'
+      img: 'Nous les accompagnons.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Kan du vänta på oss?'
+      img: 'Peux-tu nous attendre?'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Jag måste fråga alla.'
+      img: 'Je dois demander à tout le monde.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Vi ska åka genom stan.'
+      img: 'Nous traverserons la ville.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Vi kommer att kunna se massor av bilar, butiker och stora hus.'
+      img: 'Nous pourrons voir beaucoup de voitures, de magasins et de grandes maisons.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Det är mycket folk på gatorna.'
+      img: 'Il y a beaucoup de monde dans les rues.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Visa mig vägen, snälla.'
+      img: "Montrez-moi le chemin, s'il vous plaît."
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Gå rakt fram och sväng sedan vänster.'
+      img: 'Allez tout droit puis tournez à gauche.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Sväng höger vid den gigantiska bron."'
+      img: 'Tournez à droite au pont géant.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Det finns min favoritbutik till höger och en kyrka till vänster.'
+      img: 'Il y a mon magasin préféré sur la droite et une église sur la gauche.'
     }
   ]
 

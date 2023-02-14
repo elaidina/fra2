@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Vad tycker du om det?'
+      img: "Qu'est-ce que tu en penses?"
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Släck ljuset.'
+      img: 'Éteins la lumière.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Var spelar du med dina vänner?'
+      img: 'Où est-ce que tu joues avec tes amis ?'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'När kommer du hem från jobbet?'
+      img: 'Quand rentrez-vous du travail ?'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Håll skruvmejseln.'
+      img: 'Tenez le tournevis.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Jag tittar på en godnattsaga varje kväll.'
+      img: 'Je regarde une histoire au coucher tous les soirs.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Kan du gissa vad jag är?'
+      img: 'Peux-tu deviner ce que je suis ?'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Planterar du blommor och träd?'
+      img: 'Plantez-vous des fleurs et des arbres ?'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Ja, jag är trädgårdsmästare.'
+      img: 'Oui, je suis jardinier.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Gissa vad jag tänker på.'
+      img: 'Devinez à quoi je pense.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Är det en pojke, en flicka, ett djur eller en sak?'
+      img: 'Est-ce un garçon, une fille, un animal ou une chose?'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Hänger den på väggen?'
+      img: "Est-ce qu'il est accroché au mur?"
     }
   ]
 

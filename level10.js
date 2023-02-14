@@ -71,11 +71,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Hör du, kan du den här låten?'
+      img: 'Écoute, tu connais cette chanson ?'
     },
     {
       name: '10',
-      img: 'Écoute, tu connais cette chanson ?'
+      img: 'There is a brilliant book on the shelf.'
     },
     {
       name: '10',

@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'De är väldigt smutsiga och feta men också roliga.'
+      img: 'Ils sont très sales et gros mais aussi drôles.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'De gillar att leka i leran.'
+      img: 'Ils aiment jouer dans la boue.'
     },
     {
       name: '3',
@@ -27,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'They are looking forward to making a hut.'
+      img: 'Les enfants aiment jouer dans la cour.'
     },
     {
       name: '4',
