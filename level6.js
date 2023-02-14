@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Hur kan jag hjälpa dig?'
+      img: "Comment puis-je t'aider?"
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Kan du titta på bordet?'
+      img: "Pouvez-vous regarder la table?"
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Det låg under bordet.'
+      img: "C'était sous la table."
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Jag trodde att det låg på byrån eller vid stolen.'
+      img: "Je pensais que c'était sur la commode ou près de la chaise."
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Jag bygger en legobil.'
+      img: "Je construis une voiture en lego."
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Titta på denna lilla bilden.'
+      img: 'Regardez cette petite photo.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Det finns massor av jordgubbar, körsbär, hallon och vindruvor.'
+      img: 'Il y a beaucoup de fraises, de cerises, de framboises et de raisins.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Päronen och aprikoserna är inte mogna ännu.'
+      img: "Les poires et les abricots ne sont pas encore mûrs."
     },
     {
       name: '9',
@@ -71,15 +71,15 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Här är din tallrik, gaffel, kopp och sked.'
+      img: 'Voici votre assiette, fourchette, tasse et cuillère.'
     },
     {
       name: '10',
-      img: 'Is this your bag or not?'
+      img: "C'est ton sac ou pas ?"
     },
     {
       name: '10',
-      img: 'Är det här din väska eller inte?'
+      img: 'Is it your bag or not?'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Min docka har stora blå ögon och långt hår.'
+      img: "Ma poupée a de grands yeux bleus et des cheveux longs."
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Låt oss ta en sax och klippa ut ett litet hjärta.'
+      img: "Prenons une paire de ciseaux et découpons un petit coeur."
     }
   ]
 
@@ -166,7 +166,7 @@ audio1.play();
     cardsChosenId = []
     resultDisplay.textContent = cardsWon.length
     if  (cardsWon.length === cardArray.length/2) {
-      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level 6 completed!</h2><a href='https://elaidina.github.io/sve1/level7.html'> Continue to Level 7</a>";
+      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level 6 completed!</h2><a href='https://elaidina.github.io/fra2/level7.html'> Continue to Level 7</a>";
 
 
       var audio3 = new Audio ("images/end.mp3")

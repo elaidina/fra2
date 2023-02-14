@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Är det din väska?'
+      img: "C'est ton sac ?"
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Vad har du i handen?'
+      img: "Qu'est-ce que tu as dans la main ?"
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Du kan gissa.'
+      img: "Vous pouvez deviner."
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Ja, den är min.'
+      img: "Oui c'est le mien."
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Det här är min nya cykel.'
+      img: "C'est mon nouveau vélo."
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Vems cykel är det?'
+      img: 'A qui est ce vélo ?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Hon ser gammal ut.'
+      img: "Elle a l'air vieille."
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Hur gammal ser jag ut?'
+      img: "Quel âge ai-je l'air?"
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Du ser ut som ett barn.'
+      img: "Tu as l'air d'un enfant."
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Det äpplet är rött.'
+      img: "Cette pomme est rouge."
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Vad är din favorit färg?'
+      img: "Quelle est ta couleur préférée?"
     },
     {
       name: '12',
@@ -95,10 +95,9 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Rosa är min favoritfärg.'
+      img: "Le rose est ma couleur préférée."
     }
   ]
-
   cardArray.sort(() => 0.5 - Math.random())
 
   const grid = document.querySelector('.grid')
@@ -166,7 +165,7 @@ audio1.play();
     cardsChosenId = []
     resultDisplay.textContent = cardsWon.length
     if  (cardsWon.length === cardArray.length/2) {
-      resultDisplay.innerHTML = ' <h1>Congratulations! You found them all!</h1><h2>Level 3 completed!</h2><a href="https://elaidina.github.io/sve1/level4.html"> Continue to Level 4</a>';
+      resultDisplay.innerHTML = ' <h1>Congratulations! You found them all!</h1><h2>Level 3 completed!</h2><a href="https://elaidina.github.io/fra2/level4.html"> Continue to Level 4</a>';
 
 
       var audio3 = new Audio ("images/end.mp3")

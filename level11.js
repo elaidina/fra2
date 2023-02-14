@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Jag är längre och större än honom.'
+      img: 'Je suis plus grand et plus gros que lui.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Men han är svagare än mig.'
+      img: 'Mais il est plus faible que moi.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Överdriv inte.'
+      img: "N'exagérez pas."
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Hur blir vädret imorgon?'
+      img: 'Quel temps fera-t-il demain ?'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Det ska regna och vara kallt.'
+      img: 'Il devrait pleuvoir et faire froid.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Ska jag ta ett paraply?'
+      img: 'Dois-je prendre un parapluie ?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Snälla, glöm inte att ta ett paraply eller en regnrock.'
+      img: "S'il vous plaît, n'oubliez pas de prendre un parapluie ou un imperméable."
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Drick mycket te när du är kall.'
+      img: 'Bois beaucoup de thé quand tu as froid.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Känner du dig sjuk?'
+      img: 'Est-ce que tu te sens malade?'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Jag har varit sjuk i två veckor.'
+      img: 'Je suis malade depuis deux semaines.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Torka håret med den här handduken.'
+      img: 'Séchez vos cheveux avec cette serviette.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Du måste hålla dig varm.'
+      img: 'Tu dois rester au chaud.'
     }
   ]
 
@@ -166,7 +166,7 @@ audio1.play();
     cardsChosenId = []
     resultDisplay.textContent = cardsWon.length
     if  (cardsWon.length === cardArray.length/2) {
-      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level 11 completed!</h2><a href='https://elaidina.github.io/sve1/level12.html'> Continue to Level 12</a>";
+      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level 11 completed!</h2><a href='https://elaidina.github.io/fra2/level12.html'> Continue to Level 12</a>";
 
 
       var audio3 = new Audio ("images/end.mp3")

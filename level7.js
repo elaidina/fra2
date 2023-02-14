@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Lima fast ögonen, näsan och munnen på masken.'
+      img: 'Collez les yeux, le nez et la bouche au masque.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Min klänning är för kort och säckig.'
+      img: 'Ma robe est trop courte et ample.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Jag står i mitten av cirkeln.'
+      img: 'Je me tiens au milieu du cercle.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Sätt på dig dina skor.'
+      img: 'Met tes souliers.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Ta hand om dig själv.'
+      img: 'Prends soin de toi.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Bor du i stan eller på landet?'
+      img: 'Tu vis à la ville ou à la campagne?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Vad ser du?'
+      img: "Qu'est-ce que tu vois?"
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Jag ser en ankunge, några ungar, en hund och en katt.'
+      img: 'Je vois un caneton, des poussins, un chien et un chat.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Vilken färg har den katten?'
+      img: 'De quelle couleur est ce chat ?'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Katten är svart.'
+      img: 'Le chat est noir.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Jag gillar chokladglass.'
+      img: "J'aime la glace au chocolat."
     },
     {
       name: '12',
@@ -95,10 +95,9 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Jag gillar att höra historier.'
+      img: "J'aime entendre des histoires."
     }
   ]
-
   cardArray.sort(() => 0.5 - Math.random())
 
   const grid = document.querySelector('.grid')
@@ -166,7 +165,7 @@ audio1.play();
     cardsChosenId = []
     resultDisplay.textContent = cardsWon.length
     if  (cardsWon.length === cardArray.length/2) {
-      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level 7 completed!</h2><a href='https://elaidina.github.io/sve1/level8.html'> Continue to Level 8</a>";
+      resultDisplay.innerHTML = " <h1>Congratulations! You found them all!</h1><h2>Level 7 completed!</h2><a href='https://elaidina.github.io/fra2/level8.html'> Continue to Level 8</a>";
 
 
       var audio3 = new Audio ("images/end.mp3")

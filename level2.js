@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Nej det har jag inte.'
+      img: "Non je n'ai pas."
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Solen skiner och det är varmt.'
+      img: "Le soleil brille et il fait chaud."
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Vad skulle du vilja göra?'
+      img: "Qu'est-ce que tu aimerais faire?"
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Jag skulle vilja gå ut.'
+      img: "J'aimerais sortir."
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Ursäkta mig vem är du?'
+      img: "Excusez-moi, qui êtes-vous?"
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Hej, jag heter Tom.'
+      img: "Bonjour, je m'appelle Tom."
     },
     {
       name: '7',
@@ -55,15 +55,15 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Är Tom en bra vän?'
+      img: "Est-ce que Tom est un bon ami ?"
     },
     {
       name: '8',
-      img: 'Nej det är det inte.'
+      img: 'No, he is not.'
     },
     {
       name: '8',
-      img: 'No. He´s not.'
+      img: "Non, ce n'est pas le cas."
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Den långa pojken är min vän.'
+      img: "Ce grand garçon est mon ami."
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Kom hit och sätt dig ner.'
+      img: "Viens ici et assieds-toi."
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Misha, snälla låna mig din penna."'
+      img: "Misha, s'il te plaît, prête-moi ton stylo."
     },
     {
       name: '12',
@@ -95,10 +95,9 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Låt oss spela boll.'
+      img: 'Jouons au ballon.'
     }
   ]
-
   cardArray.sort(() => 0.5 - Math.random())
 
   const grid = document.querySelector('.grid')
@@ -166,7 +165,7 @@ audio1.play();
     cardsChosenId = []
     resultDisplay.textContent = cardsWon.length 
     if  (cardsWon.length === cardArray.length/2) {
-      resultDisplay.innerHTML = ' <h1>Congratulations! You found them all!</h1><h2>Level 2 completed!</h2><a href="https://elaidina.github.io/sve1/level3.html"> Continue to Level 3</a>'
+      resultDisplay.innerHTML = ' <h1>Congratulations! You found them all!</h1><h2>Level 2 completed!</h2><a href="https://elaidina.github.io/fra2/level3.html"> Continue to Level 3</a>'
 
 
       var audio3 = new Audio ("images/end.mp3")

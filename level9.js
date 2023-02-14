@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Stå inte bakom mig.'
+      img: 'Ne te tiens pas derrière moi.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Jag försöker att inte göra det.'
+      img: "J'essaie de ne pas faire ça."
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Vi lär oss att cykla.'
+      img: 'Nous apprenons à faire du vélo.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Varför gråter du?'
+      img: 'Pourquoi pleures-tu?'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'För att jag bröt benet.'
+      img: 'Parce que je me suis cassé la jambe.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Och jag har också krossat min bil.'
+      img: "Et j'ai aussi cassé ma voiture."
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Kan jag hjälpa dig att reparera den?'
+      img: 'Puis-je vous aider à le réparer ?'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Här är nycklarna.'
+      img: 'Voici les clés.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Bräck inte reglerna.'
+      img: "N'enfreignez pas les règles."
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Jag går inte i skolan men jag kan läsa och skriva.'
+      img: "Je ne vais pas à l'école mais je sais lire et écrire."
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Jag kan inte lyfta denna sten."'
+      img: 'Je ne peux pas soulever cette pierre.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Stenen är för tung.'
+      img: 'La pierre est trop lourde.'
     }
   ]
 
@@ -166,7 +166,7 @@ audio1.play();
     cardsChosenId = []
     resultDisplay.textContent = cardsWon.length 
     if  (cardsWon.length === cardArray.length/2) {
-      resultDisplay.innerHTML = ' <h1>Congratulations! You found them all!</h1><h2>Level 9 completed!</h2><a href="https://elaidina.github.io/sve1/level10.html"> Continue to Level 10</a>'
+      resultDisplay.innerHTML = ' <h1>Congratulations! You found them all!</h1><h2>Level 9 completed!</h2><a href="https://elaidina.github.io/fra2/level10.html"> Continue to Level 10</a>'
 
 
       var audio3 = new Audio ("images/end.mp3")

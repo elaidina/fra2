@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Det är svårt att teckna.'
+      img: 'Dessiner est difficile.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Hur bygger man ett hus?'
+      img: 'Comment construit-on une maison ?'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Huset består av väggar, tak, fönster, skorsten, staket och dörr.'
+      img: "La maison se compose de murs, d'un toit, de fenêtres, d'une cheminée, d'une clôture et d'une porte."
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Den blå bollen är större än den röda bollen.'
+      img: 'La boule bleue est plus grosse que la boule rouge.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Vilken boll är störst?'
+      img: 'Quelle balle est la plus grosse ?'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Jag skulle vilja lära mig en engelsk låt.'
+      img: "J'aimerais apprendre une chanson anglaise."
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Vi kan ringa Mary.'
+      img: 'Nous pouvons appeler Mary.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Hon är en väldigt bra sångerska.'
+      img: "C'est une très bonne chanteuse."
     },
     {
       name: '9',
@@ -75,11 +75,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'There is a brilliant book on the shelf.'
+      img: 'Écoute, tu connais cette chanson ?'
     },
     {
       name: '10',
-      img: 'Det ligger en lysande bok på hyllan.'
+      img: "Il y a un livre brillant sur l'étagère."
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Jag läser ofta den här boken.'
+      img: 'Je lis souvent ce livre.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Jag är för kort för att nå boken i hyllan.'
+      img: "Je suis trop petit pour atteindre le livre sur l'étagère."
     }
   ]
 
@@ -166,7 +166,7 @@ audio1.play();
     cardsChosenId = []
     resultDisplay.textContent = cardsWon.length
     if  (cardsWon.length === cardArray.length/2) {
-      resultDisplay.innerHTML = ' <h1>Congratulations! You found them all!</h1><h2>Level 10 completed!</h2><a href="https://elaidina.github.io/sve1/level11.html"> Continue to Level 11</a>';
+      resultDisplay.innerHTML = ' <h1>Congratulations! You found them all!</h1><h2>Level 10 completed!</h2><a href="https://elaidina.github.io/fra2/level11.html"> Continue to Level 11</a>';
 
 
       var audio3 = new Audio ("images/end.mp3")
