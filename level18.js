@@ -27,11 +27,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Les enfants aiment jouer dans la cour.'
+      img: 'The children like playing in the yard.'
     },
     {
       name: '4',
-      img: 'De ser fram emot att få bygga en koja.'
+      img: 'Les enfants aiment jouer dans la cour.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'De behöver en hammare, spikar och plankor.'
+      img: "Ils ont besoin d'un marteau, de clous et de planches."
     },
     {
       name: '6',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Hjälp oss hellre att hamra på spikarna.'
+      img: 'Aidez-nous plutôt à enfoncer les clous.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Hur tycker du om den färdiga kojan?'
+      img: 'Comment trouvez-vous la cabane finie ?'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Det är den bästa stugan någonsin.'
+      img: "C'est la meilleure cabane de tous les temps."
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Det är en härlig varm dag.'
+      img: "C'est une belle journée chaude."
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Barnen är vid floden.'
+      img: 'Les enfants sont au bord de la rivière.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Det är mycket sand överallt.'
+      img: 'Il y a beaucoup de sable partout.'
     }
   ]
 

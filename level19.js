@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Det finns en bro över floden.'
+      img: 'Il y a un pont sur la rivière.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Det spelar ingen roll.'
+      img: "Cela n'a pas d'importance."
     },
     {
       name: '3',
@@ -23,11 +23,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Vi kan dricka vatten eller apelsinjuice.'
+      img: "On peut boire de l'eau ou du jus d'orange."
     },
     {
       name: '4',
-      img: "You´re swimming like a dog."
+      img: "Tu nages comme un chien."
     },
     {
       name: '4',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Jag simmar som en katt.'
+      img: 'Je nage comme un chat.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Kan du prata engelska?'
+      img: 'Peux-tu parler anglais ?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Jag åker på måndag.'
+      img: 'Je pars lundi.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Jag är väldigt ledsen att jag måste lämna.'
+      img: 'Je suis vraiment désolé de devoir partir.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Vi skulle vilja säga hejdå till dig.'
+      img: 'Nous voudrions vous dire au revoir.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Det är synd att du lämnar.'
+      img: "C'est dommage que tu partes."
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Ta hand om dig och lycka till.'
+      img: 'Prends soin de toi et bonne chance.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Jag njuter av mycket snö i januari.'
+      img: "J'apprécie beaucoup de neige en janvier."
     }
   ]
 

@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Jag gillar inte att hjälpa min mamma i köket.'
+      img: "Je n'aime pas aider ma mère dans la cuisine."
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Jag leker hellre på lekplatsen.'
+      img: 'Je préfère jouer dans la cour de récréation.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Jag dukar alltid bordet.'
+      img: 'Je mets toujours la table.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Vardagsrummet är det största rummet i vår lägenhet.'
+      img: 'Le salon est la plus grande pièce de notre appartement.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Min pappa jobbar på sin dator här.'
+      img: 'Mon père travaille sur son compétiteur ici.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Jag spelar helst spel på datorn.'
+      img: "Je préfère jouer à des jeux sur l'ordinateur."
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Små barn leker i sandlådan.'
+      img: 'Les petits enfants jouent dans le bac à sable.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Ta på dig dina rena byxor.'
+      img: 'Mets ton pantalon propre.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'På våren är landet vackert.'
+      img: 'Au printemps, la campagne est belle.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Träd, ängar och trädgårdar är fulla av blommor.'
+      img: 'Les arbres, les prés et les jardins sont pleins de fleurs.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Vi går till sjön som inte ligger långt från vår stad.'
+      img: "Nous allons au lac qui n'est pas loin de notre ville."
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Vi leker med sand och simmar där.'
+      img: 'Nous jouons avec le sable et nous y nageons.'
     }
   ]
 

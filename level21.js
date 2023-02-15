@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Vi lär oss för att vi vill lära känna världen omkring oss.'
+      img: 'Nous apprenons parce que nous voulons connaître le monde qui nous entoure.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Vi vill också veta hur man gör saker.'
+      img: 'Nous voulons aussi savoir comment faire les choses.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Min kompis har en lillebror.'
+      img: 'Mon ami a un petit frère.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Han vill veta allt.'
+      img: 'Il veut tout savoir.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Han ställer alltid frågor.'
+      img: 'Il pose toujours des questions.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Bor människor på månen?'
+      img: 'Est-ce que des gens vivent sur la Lune?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Varför arbetar människor?'
+      img: 'Pourquoi les gens travaillent?'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Äter och dricker blommor?'
+      img: 'Est-ce que les fleurs mangent et boivent?'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Jag går till min pappa och frågar honom.'
+      img: 'Je vais voir mon père et je lui demande.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Han vet mycket.'
+      img: 'Il sait beaucoup de choses.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Jag bor i ett flerfamiljshus.'
+      img: "J'habite dans un immeuble d'appartements."
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Det finns ingen skorsten på vårt hus.'
+      img: "Il n'y a pas de cheminée sur notre maison."
     }
   ]
 
