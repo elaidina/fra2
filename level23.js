@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Jag gillar sommaren för pappa köper massor av glass till mig.'
+      img: "J'aime l'été parce que papa m'achète plein de glaces."
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Skogen är väldigt färgglad på hösten.'
+      img: 'La forêt est très colorée en automne.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Åkrarna, kullarna, husen och träden är täckta av snö på vintern.'
+      img: 'Les champs, les collines, les maisons et les arbres sont couverts de neige en hiver.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Vi gör en snögubbe med mina vänner.'
+      img: 'Nous faisons un bonhomme de neige avec mes amis.'
     },
     {
       name: '5',
@@ -39,15 +39,15 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Min moster matar sina höns och ankor med majs och vete.'
+      img: 'Ma tante nourrit ses poules et ses canards avec du maïs et du blé.'
     },
     {
       name: '6',
-      img: 'She pours some milk into ints bowl.'
+      img: 'She pours some milk into its bowl.'
     },
     {
       name: '6',
-      img: 'Hon häller lite mjölk i ints skål.'
+      img: 'Elle verse du lait dans son bol.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'De små kattungarna är söta och roliga.'
+      img: 'Les petits chatons sont mignons et drôles.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'De lägger alltid tassarna i skålen och spiller mjölken.'
+      img: 'Ils mettent toujours leurs pattes dans le bol et renversent le lait.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Min farbror är väldigt händig.'
+      img: 'Mon oncle est très bricoleur.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Han planterar grönsaker och blommor.'
+      img: 'Il plante des légumes et des fleurs.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Mormor gör väldigt god sylt och stuvade frukter.'
+      img: 'Grand-mère fait de très bonnes confitures et compotes de fruits.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Jag hjälper morfar att plocka äpplen, päron, vindruvor och plommon.'
+      img: "J'aide grand-père à cueillir des pommes, des poires, des raisins et des prunes."
     }
   ]
 

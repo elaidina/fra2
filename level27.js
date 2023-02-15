@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Vem ska baka bröd?'
+      img: 'Qui va faire du pain?'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Jag ska äta det här brödet.'
+      img: 'Je vais manger ce pain.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'De ska flytta hem.'
+      img: 'Ils vont déménager.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Det finns mycket arbete att göra.'
+      img: 'Il y a beaucoup de travail à faire.'
     },
     {
       name: '5',

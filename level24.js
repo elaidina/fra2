@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Han säger att jag lägger mer frukt i magen än i korgen.'
+      img: "Il dit que j'ai mis plus de fruits dans mon ventre que dans le panier."
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'På vintern gör morfar ett fågelhus och hänger det i trädet.'
+      img: "En hiver, grand-père fabrique une cabane à oiseaux et l'accroche à l'arbre."
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Han lägger lite mat där, så att fåglarna inte är hungriga i den kalla vintern.'
+      img: "Il y met de la nourriture, pour que les oiseaux n'aient pas faim pendant le froid de l'hiver."
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Vi måste skydda dem för de hjälper oss.'
+      img: "Nous devons les protéger car ils nous aident."
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'De äter insekter.'
+      img: "Ils mangent des insectes."
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Vissa insekter kan skada växterna.'
+      img: 'Certains insectes peuvent endommager les plantes.'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Varför äter vi inte glass till frukost?'
+      img: "Pourquoi n'avons-nous pas de glace au petit déjeuner ?"
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Det snöar och det blåser kall vind.'
+      img: "Il neige et un vent froid souffle."
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Teet är för bittert.'
+      img: 'Le thé est trop amer.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Citronsaft gör det surare.'
+      img: 'Le jus de citron le rend plus aigre.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Jag äter upp min frukost och går ut.'
+      img: 'Je prends mon petit-déjeuner et je sors.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Isen är hal.'
+      img: 'La glace est glissante.'
     }
   ]
 
