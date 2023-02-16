@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Vi måste reda ut de saker vi vill behålla och de saker vi kan slänga.'
+      img: "Il faut faire le tri entre les choses qu'on veut garder et celles qu'on peut jeter."
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Kattungarna fortsatte att komma i vägen.'
+      img: "Les chatons n'arrêtaient pas de gêner."
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Äntligen var det dagen för flytten.'
+      img: "Enfin c'était le jour du déménagement."
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Vi såg männen packa saker och lägga dem i skåpbilen.'
+      img: 'Nous avons regardé les hommes emballer des choses et les mettre dans la camionnette.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Det tog lång tid.'
+      img: 'Cela a pris beaucoup de temps.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'När huset var ganska tomt kände vi oss lite ledsna.'
+      img: 'Quand la maison était assez vide, nous nous sentions un peu tristes.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Min bror bar guldfisken i sin tank.'
+      img: 'Mon frère a transporté le poisson rouge dans son aquarium.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Barnet behövde en gos.'
+      img: "Le bébé avait besoin d'un câlin."
     }
   ]
 

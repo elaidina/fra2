@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Innan någon kunde stoppa mig gick jag hem.'
+      img: "Avant que quelqu'un ne puisse m'arrêter, je suis rentré chez moi."
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'De kunde inte hitta mig någonstans.'
+      img: "Ils ne pouvaient pas me trouver n'importe où."
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'När vi kom fram till det nya huset kände vi oss bedrövade.'
+      img: "Quand nous sommes arrivés dans la nouvelle maison, nous nous sommes sentis misérables."
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Jag har precis fått en ljus idé!'
+      img: "Je viens d'avoir une idée brillante !"
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'En på mina snören lossnade och jag trampade på den.'
+      img: "Un de mes lacets s'est défait et j'ai marché dessus."
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Jag var tvungen att knyta mina snören ordentligt.'
+      img: "Je devais faire mes lacets correctement."
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Han körde iväg i bilen.'
+      img: 'Il est parti en voiture.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Mamma var inte särskilt nöjd med mig.'
+      img: "Maman n'était pas très contente de moi."
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Det var så mycket att göra.'
+      img: 'Il y avait tellement de choses à faire.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Låt oss gå och klättra i det trädet.'
+      img: 'Allons grimper à cet arbre.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Den natten sov jag i mitt nya sovrum för första gången.'
+      img: "Cette nuit-là, j'ai dormi dans ma nouvelle chambre pour la première fois."
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Snart sov jag i mitt nya hem.'
+      img: "Bientôt, je me suis endormi dans ma nouvelle maison."
     }
   ]
 

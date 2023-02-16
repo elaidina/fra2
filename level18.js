@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Barnen gillar att leka på gården.'
+      img: 'Les enfants aiment jouer dans la cour.'
     },
     {
       name: '4',
@@ -47,7 +47,8 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Jag skulle vilja hjälpa dem att hamra plankorna.'
+      img: "J'aime les aider à marteler les planches."
+
     },
     {
       name: '7',
