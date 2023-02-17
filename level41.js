@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Bara tugga en halv tablett, skölj sedan munnen med vatten.'
+      img: "Il suffit de mâcher un demi-comprimé, puis de se rincer la bouche avec de l'eau."
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Han förklarade.'
+      img: 'Il expliqua.'
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'De delar av dina tänder som behöver rengöras mest kommer att bli rosa.'
+      img: "Les parties de vos dents qui ont le plus besoin d'être nettoyées deviendront roses."
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Vi skulle se roliga ut att gå till lekplatsen med rosa tänder.'
+      img: "On aurait l'air drôle d'aller au terrain de jeux avec des dents roses."
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Kemisten skrattade.'
+      img: 'Le chimiste a ri.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'När det inte finns någon rosa kvar, vet du att dina tänder är rena.'
+      img: "Quand il n'y a plus de rose, vous savez que vos dents sont propres."
     }
   ]
 
