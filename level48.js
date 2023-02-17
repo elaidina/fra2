@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'De hade en underbar tid i skogen.'
+      img: 'Ils ont passé un merveilleux moment dans le bois.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'De svängde från träd som apor.'
+      img: 'Ils se sont balancés aux arbres comme des singes.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Jag är kungen av djungeln!'
+      img: 'Je suis le roi de la jungle !'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'De jagade efter kaniner och försökte fånga dem.'
+      img: 'Ils ont poursuivi des lapins, essayant de les attraper.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Men kaninerna sprang fortare.'
+      img: 'Mais les lapins ont couru plus vite.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Jag fick nästan en, men den rann ner i ett kaninhål.'
+      img: "J'ai failli en attraper un, mais il a coulé dans un terrier de lapin."
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Äntligen började de känna sig hungriga.'
+      img: 'Enfin, ils ont commencé à avoir faim.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Ingen av dem hade ätit frukost.'
+      img: "Aucun d'entre eux n'avait pris de petit-déjeuner."
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'De ville gå tillbaka till lägret, men de visste inte vilken väg de skulle gå.'
+      img: 'Ils voulaient retourner au camp, mais ils ne savaient pas où aller.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Vi är vilse.'
+      img: 'Nous sommes perdus.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Jag kom precis för att hitta dig.'
+      img: 'Je venais juste te trouver.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Vad har du haft för dig?'
+      img: "Qu'est-ce que tu as fait ?"
     }
   ]
 
