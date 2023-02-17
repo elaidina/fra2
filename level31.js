@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Det var nästan dags för te, så de gick alla inomhus för att tvätta händerna.'
+      img: "C'était presque l'heure du thé, alors ils sont tous rentrés pour se laver les mains."
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Tom lossade trappgrinden och Josie hjälpte sin syster att klättra upp för trappan.'
+      img: "Tom a défait la porte d'escalier et Josie a aidé sa sœur à monter les escaliers."
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Jag såg till att vattnet inte var för varmt.'
+      img: "Je me suis assuré que l'eau n'était pas trop chaude."
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Vi tvättade alla våra händer.'
+      img: 'Nous nous sommes tous lavé les mains.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Jag ville titta ut genom badrumsfönstret.'
+      img: 'Je voulais regarder par la fenêtre de la salle de bain.'
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Var försiktig, snälla.'
+      img: "Faites attention s'il vous plait."
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Det är inte säkert att luta sig ut från fönster.'
+      img: "Il n'est pas prudent de se pencher par les fenêtres."
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Jag skulle inte göra det.'
+      img: "Je n'allais pas."
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Tom sprang ut från badrummet och höll dörren stängd.'
+      img: 'Tom est sorti en courant de la salle de bain et a tenu la porte fermée.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Släpp mig ut, Tom.'
+      img: 'Laisse-moi sortir, Tom.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Det är farligt att leka med dörrar.'
+      img: "C'est dangereux de jouer avec les portes."
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Någons fingrar skulle kunna fastna.'
+      img: "Les doigts de quelqu'un pourraient se coincer."
     }
   ]
 

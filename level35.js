@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Den lilla häxan började känna sig väldigt trött efter sitt hårda arbete.'
+      img: 'La petite sorcière a commencé à se sentir très fatiguée après son dur labeur.'
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'De levde alla lyckliga i alla sina dagar.'
+      img: 'Ils vécurent heureux pour toujours.'
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Se upp och titta ner.'
+      img: 'Regarde en haut et regarde en bas."'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Det är en läcka i taket.'
+      img: 'Il y a une fuite dans le toit.'
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Det är enkelt att reparera.'
+      img: "C'est facile à réparer."
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Men hur kan du nå upp dit?'
+      img: 'Mais comment pouvez-vous atteindre là-haut?'
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Jag kan inte klättra upp."'
+      img: 'Je ne peux pas monter.'
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'Det är alldeles för brant.'
+      img: "C'est beaucoup trop raide."
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Jag måste låna en stege.'
+      img: 'Je dois emprunter une échelle.'
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Barnet hoppar över pölarna och snubblar.'
+      img: "Le gamin sautille par-dessus les flaques d'eau et trébuche."
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'Hon förklarar hur regnet droppade i hennes te.'
+      img: 'Elle explique comment la pluie a coulé dans son thé.'
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'Mitt fönster stängs inte.'
+      img: 'Ma fenêtre ne ferme pas.'
     }
   ]
 

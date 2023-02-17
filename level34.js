@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '1',
-      img: 'Men flickan var inte bara en flicka.'
+      img: "Mais la fille n'était pas qu'une fille."
     },
     {
       name: '2',
@@ -15,7 +15,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '2',
-      img: 'Hon var en häxa.'
+      img: "C'était une sorcière."
     },
     {
       name: '3',
@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Hon visste hur man fångar spöken.'
+      img: 'Elle savait comment attraper les fantômes.'
     },
     {
       name: '4',
@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Jag hoppas att det finns några fler!'
+      img: "J'espère qu'il y en a d'autres !"
     },
     {
       name: '5',
@@ -39,7 +39,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '5',
-      img: 'Hon fortsatte tills hon hade fångat alla spöken i huset.'
+      img: "Elle a continué jusqu'à ce qu'elle ait attrapé tous les fantômes de la maison."
     },
     {
       name: '6',
@@ -47,7 +47,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '6',
-      img: 'Sedan gick hon till köket.'
+      img: "Puis elle est allée à la cuisine."
     },
     {
       name: '7',
@@ -55,7 +55,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '7',
-      img: 'Hon lade dem alla i tvättmaskinen.'
+      img: "Elle les a tous mis dans la machine à laver."
     },
     {
       name: '8',
@@ -63,7 +63,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '8',
-      img: 'När de var rena hängde hon ut dem i trädgården.'
+      img: "Quand ils étaient propres, elle les étendait dans le jardin."
     },
     {
       name: '9',
@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '9',
-      img: 'Det var fint väder för torkning.'
+      img: "Il faisait beau temps pour le séchage."
     },
     {
       name: '10',
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '10',
-      img: 'Efter torkning blev de flesta spöken fina gardiner.'
+      img: 'Après séchage, la plupart des fantômes sont devenus de jolis rideaux.'
     },
     {
       name: '11',
@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '11',
-      img: 'En av dem gjorde en bra duk.'
+      img: "L'un d'eux a fait une bonne nappe."
     },
     {
       name: '12',
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: 'De var alla mycket användbara.'
+      img: 'Ils ont tous été très utiles.'
     }
   ]
 
