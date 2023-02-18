@@ -52,7 +52,7 @@ body {
  }
    
  h5 {
-   font-size: 1.5rem;
+   font-size: 1.3rem;
  }
 
  h3 {
@@ -63,7 +63,9 @@ body {
 }
  
  .hide {
-   display:none
+   visibility: hidden;
+   width: 237px;
+   height: 134px;
  }
  
  .green {

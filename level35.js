@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'Regarde en haut et regarde en bas."'
+      img: 'Regarde en haut et regarde en bas.'
     },
     {
       name: '4',
