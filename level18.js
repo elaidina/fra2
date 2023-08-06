@@ -19,11 +19,11 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '3',
-      img: 'The children like playing in the yard.'
+      img: 'The children like playing everywhere.'
     },
     {
       name: '3',
-      img: 'Les enfants aiment jouer dans la cour.'
+      img: 'Les enfants aiment jouer partout.'
     },
     {
       name: '4',
