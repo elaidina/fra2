@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '4',
-      img: 'Du simmar som en hund.'
+      img: 'You´re swimming like a dog.'
     },
     {
       name: '5',
