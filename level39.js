@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     },
     {
       name: '12',
-      img: "Mais n'oubliez pas que les aliments sucrés peuvent vous faire mal aux dents, alors n'en mangez pas trop souvent."
+      img: "N'oubliez jamais de vous nettoyer les dents le matin et avant coucher avec un dentifrice au fluor."
     }
   ]
 
